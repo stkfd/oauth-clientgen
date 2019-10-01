@@ -1,0 +1,12 @@
+[package]
+name = "oauth-clientgen"
+version = "0.1.0"
+authors = ["Stefan Kaufhold <stefan.kaufhold@aug-software.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ring = "0.16.9"
+base64 = "0.10.1"
+hex = "0.4.0"
